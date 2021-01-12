@@ -2,7 +2,7 @@
 # export LD_LIBRARY_PATH=/opt/intel/deeplearning_deploymenttoolkit/deployment_tools/external/mklml_lnx/lib:$LD_LIBRARY_PATH
 import cv2 as cv
 import numpy as np
-import argparsert
+import argparse
 import matplotlib.pyplot as plt
 
 parser = argparse.ArgumentParser()
